@@ -7,4 +7,7 @@
 ![paramin](media/paramin.jpg)
 
 3.นายชยพล ทายตะคุ 643020040-6 Section1 username: bkcntux
-![me 1](media/me 1.jpg)
+![me 1](media/me1.jpg)
+
+4.นางสาวธัชพรรณ สุอินทร์ 643020047-2 Section1 username: thatchapan5555
+![dog](media/dog.jpg)
