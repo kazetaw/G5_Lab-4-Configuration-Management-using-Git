@@ -5,3 +5,6 @@
 
 2.นายปรมินทร์ คำภูเงิน 643020481-6 Section1 username: paramin3
 ![paramin](media/paramin.jpg)
+
+3.นายชยพล ทายตะคุ 643020040-6 Section1 username: bkcntux
+![me 1](media/me 1.jpg)
