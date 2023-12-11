@@ -14,3 +14,6 @@
 
 5. นายศุภวิชญ์ จำรัส 643020493-9 Section1 Username: spw32767
 ![suphawit](media/suphawit.jpg)
+
+5. นายปณัฏฐวุฒิ พรมเมือง 643021239-8 Section1 Username: panatthawut
+![biw](media/mypic-socool.jpg)
